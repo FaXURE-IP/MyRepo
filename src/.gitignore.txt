@@ -1,2 +1,4 @@
 *.swp
 *.swo
+main.exe
+.clang-format
